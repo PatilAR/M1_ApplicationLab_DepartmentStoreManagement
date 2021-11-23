@@ -32,8 +32,11 @@
 ```bash
    Test case:5
 ```
+![5_search_output](https://user-images.githubusercontent.com/94224849/143030838-78acdf68-6284-4b69-99c2-dbc3172fa957.jpg)
+
 
 
 ```bash
    Test case:6
 ```
+
