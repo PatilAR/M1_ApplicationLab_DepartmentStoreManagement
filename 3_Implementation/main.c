@@ -5,8 +5,8 @@ Departmental store management system to insert, display, delete,update and sale 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define USERNAME "admin"
-#define PASSWORD "admin123"
+#define USERNAME "Admin"
+#define PASSWORD "Admin123"
 #define MAX 20
 
 typedef struct items
@@ -513,7 +513,7 @@ void saleProduct()
 //     int i;
 //     for (i = 1; i <= 10; i++)
 //         printf("-");
-//     printf(" HRITIK DEPARTMENTAL STORE");
+//     printf(" SUPERSTAR STORE");
 //     for (i = 1; i <= 10; i++)
 //         printf("-");
 //     printf("\n\n");
@@ -523,7 +523,7 @@ void saleProduct()
 
 void options()
 {
-    printf("\v\n\v\t\t\t\t\t\t\t\t--Hritik Departmental Store--\n");
+    printf("\v\n\v\t\t\t\t\t\t\t\t--SuSperStar Store--\n");
     printf("\t\t\t\t\t\t\t\t**********************************\n");
     int num, choice;
     while (1)
