@@ -40,3 +40,5 @@
    Test case:6
 ```
 
+
+![6_SaleProduct_output](https://user-images.githubusercontent.com/94224849/143031063-c3603cee-3aff-4f4c-b769-987f5d0880d6.jpg)
