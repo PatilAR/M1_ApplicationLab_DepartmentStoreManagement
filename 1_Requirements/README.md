@@ -9,7 +9,7 @@ The program mainly focuses on manipulation of various functions by a cashier and
 
 # Research:-
 
-
+![1_loginPage-successful](https://user-images.githubusercontent.com/94224849/143027300-627853b3-6b68-4ac6-81ce-8bf2348df94c.jpg)
 
 The requirements for the program to run or for the code to be in effect are basic and can befound on any simple computer.In this project, you can manage a typical  department store. You can add goods, edit goods, search, delete and display the goods. 
 
