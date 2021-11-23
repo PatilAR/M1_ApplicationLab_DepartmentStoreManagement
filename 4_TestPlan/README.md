@@ -23,5 +23,17 @@
 
 
 ```bash
-   Test case:
+   Test case:4
+```
+
+![4_Delete_output](https://user-images.githubusercontent.com/94224849/143030641-4326e437-c154-4c3c-aeb5-43ac572f381d.jpg)
+
+
+```bash
+   Test case:5
+```
+
+
+```bash
+   Test case:6
 ```
