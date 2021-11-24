@@ -119,6 +119,22 @@ bash
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/94224849/142768829-b5674af7-ba4b-433b-8208-8f2c7be009d8.png)
 
 
+
+| Test ID | Description | Exp I/P | Exp O/P | Actual Out | Type Of Test |
+|--------| ------------ |--------|----------|-----------|---------------|
+| H_01    | Enter a valid username & password |Username:user Password:pass |login Succesfully|login Succsefully|Requirement Based|
+|H_02         | Enter invalid username & password        |Username:user Password:pass            | Login Failed Enter Again Username & Password             |Login Failed Enter Again Username & Password|Requirement Based|
+|H_03|User should be able to Login with valid credentials|Username:user Password:pass |Login Failed Enter Again Username & Password|Login Succesfully|Scenario Based|
+
+
+#OUTPUT
+
+```bash
+```
+![1_loginPage-successful](https://user-images.githubusercontent.com/94224849/143191773-d05bce22-6d58-4042-be03-f8ac03285226.jpg)
+
+
+
 # Conclusion:-
 Therefore we can conclude that the project has been successful for what it aims to perform. This program under the project can be used in a departmental store for the proper management of purchase and sales of the goods along with the billing management.
 
