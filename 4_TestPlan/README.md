@@ -1,44 +1,7 @@
 
-#TestPlan
 
-```bash
-   Test case:1
-```
-
-![1_INSERT_INPUT](https://user-images.githubusercontent.com/94224849/143028695-31d860d3-2c68-43a8-8239-9beda7527f93.png)
-
-
-```bash
-   Test case:2
-```
-![2_INSERT_INPUT_1](https://user-images.githubusercontent.com/94224849/143029766-71f8b478-147b-484d-bcbf-1eb39c625a87.jpg)
-
-
-```bash
-   Test case:3
-```
-
-![3_display_output](https://user-images.githubusercontent.com/94224849/143030087-1fcc7b00-2f85-4fe1-8cf1-df05c85154b1.jpg)
-
-
-
-```bash
-   Test case:4
-```
-
-![4_Delete_output](https://user-images.githubusercontent.com/94224849/143030641-4326e437-c154-4c3c-aeb5-43ac572f381d.jpg)
-
-
-```bash
-   Test case:5
-```
-![5_search_output](https://user-images.githubusercontent.com/94224849/143030838-78acdf68-6284-4b69-99c2-dbc3172fa957.jpg)
-
-
-
-```bash
-   Test case:6
-```
-
-
-![6_SaleProduct_output](https://user-images.githubusercontent.com/94224849/143031063-c3603cee-3aff-4f4c-b769-987f5d0880d6.jpg)
+| Test ID | Description | Exp I/P | Exp O/P | Actual Out | Type Of Test |
+|--------| ------------ |--------|----------|-----------|---------------|
+| H_01    | Enter a valid username & password |Username:user Password:pass |login Succesfully|login Succsefully|Requirement Based|
+|H_02         | Enter invalid username & password        |Username:user Password:pass            | Login Failed Enter Again Username & Password             |Login Failed Enter Again Username & Password|Requirement Based|
+|H_03|User should be able to Login with valid credentials|Username:user Password:pass |Login Failed Enter Again Username & Password|Login Succesfully|Scenario Based|
